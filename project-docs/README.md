@@ -12,3 +12,6 @@ HELLO# Health LIfe App
 - Backend => API JS for back
 - UI/UX
 - Content Creator
+
+
+updated from content 
